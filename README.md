@@ -32,8 +32,8 @@ Users can simply take a photo of a printed receipt, send a PDF file, or type a t
 
 ## 💼 Business Impact
 
-✅ **Fully automated expense tracking** without any manual data entry.
-✅ **Instant feedback loop** for the user after each submission.
-✅ **Reduces time spent on financial administration** to mere seconds per receipt.
-✅ **Supports multi-currency tracking** (UAH, USD, EUR), making it suitable for travel and international business.
-✅ **Creates a structured data foundation** ready for advanced AI-powered analytics, such as generating charts, statistics, and spending forecasts.
+-  ✅ **Fully automated expense tracking** without any manual data entry.
+-  ✅ **Instant feedback loop** for the user after each submission.
+-  ✅ **Reduces time spent on financial administration** to mere seconds per receipt.
+-  ✅ **Supports multi-currency tracking** (UAH, USD, EUR), making it suitable for travel and international business.
+-  ✅ **Creates a structured data foundation** ready for advanced AI-powered analytics, such as generating charts, statistics, and spending forecasts.
